@@ -1,10 +1,10 @@
-# STINTSY | S17
+# STINTSY | S17 | Group 5
 
-## Group 5
-- **Members**:
-  - Apetreor, Marcus
-  - Clavano, Angelica (Jack)
-  - Homssi, Yazan
+| Member Name  | Member Github Username |
+| ------------- | ------------- |
+| Apetreor, Marcus  | Marcus-Apetreor  |
+| Clavano, Angelica (Jack)  | clavzno  |
+| Homssi, Yazan | Shinoruba  |
 
 ## Project Overview
 This project focuses on analyzing the **Labor Force Survey 2016** dataset, which contains information about employment, labor force participation, and other job-related details in the Philippines. Our goal is to use machine learning techniques to gain insights into the labor force and predict key outcomes such as employment status, job types, or labor force participation.
